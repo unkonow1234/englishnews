@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>English News for Your Level</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+
+<body>
+
+<header>
+
+    <h1>English News for Your Level</h1>
+
+    <p>
+        Learn English with Real News
+    </p>
+
+</header>
+
+
+
+<main>
+
+
+    <!-- ニュース一覧 -->
+    <div class="news-list" id="news-list"></div>
+
+
+
+    <!-- 記事表示エリア -->
+    <div id="article">
+
+
+        <h2 id="title">
+            Select a News Article
+        </h2>
+
+
+
+        <!-- レベル切り替え -->
+        <div class="buttons">
+
+            <button onclick="changeLevel(1)">
+                Level 1（高校入試）
+            </button>
+
+
+            <button onclick="changeLevel(2)">
+                Level 2（大学入試）
+            </button>
+
+
+            <button onclick="changeLevel(3)">
+                Level 3（TOEIC）
+            </button>
+
+        </div>
+
+
+
+        <!-- 本文 -->
+        <div id="content"></div>
+
+
+    </div>
+
+
+</main>
+
+
+
+
+<!-- フッター -->
+
+<footer>
+
+
+    <p>
+        © English News for Your Level
+    </p>
+
+
+
+    <nav>
+
+        <a href="contact.html">
+            お問い合わせ
+        </a>
+
+        |
+
+        <a href="privacy.html">
+            プライバシーポリシー
+        </a>
+
+        |
+
+        <a href="terms.html">
+            利用規約
+        </a>
+
+
+    </nav>
+
+
+</footer>
+
+
+
+
+
+<!-- JavaScript -->
+
+<script src="sentence.js"></script>
+
+<script src="script.js"></script>
+
+
+
+</body>
+
+</html>
