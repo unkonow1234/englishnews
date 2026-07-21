@@ -782,6 +782,45 @@ Experts advise people to take extra precautions against heatstroke after the rai
     ]
   },
 
+  {
+    title: "[July 21, 2026] Spain won the World Cup.",
+    levels: [
+`The final game of the Soccer World Cup was held on the 20th in Japan time.
+
+Spain played against Argentina, and Spain won 1–0. This was Spain’s second World Cup victory.
+
+Argentina’s player Messi could not score a goal.
+
+Spain’s captain Rodri was chosen as the MVP. MVP means the best player in the tournament.
+
+The player who scored the most goals in this World Cup was Mbappé from France. He scored 10 goals in eight games.
+
+Mbappé was also the top scorer in the last World Cup.`,
+`The final match of the FIFA World Cup was held on the 20th in Japan Standard Time.
+
+Spain faced Argentina in the final, and Spain won the match 1–0. This was Spain’s second World Cup championship.
+
+Argentina’s star player Lionel Messi was unable to score during the match.
+
+Spain’s captain Rodri was selected as the MVP, which is awarded to the most outstanding player of the tournament.
+
+France’s Kylian Mbappé finished as the tournament’s top scorer, scoring 10 goals in eight matches.
+
+Mbappé was also the leading scorer in the previous World Cup.`,
+`The FIFA World Cup final took place on the 20th, Japan time.
+
+Spain defeated Argentina 1–0 in the championship match, securing their second World Cup title.
+
+Argentina’s star forward Lionel Messi failed to find the back of the net in the final.
+
+Spain captain Rodri was named the tournament’s Most Valuable Player (MVP), an award given to the competition’s outstanding performer.
+
+France’s Kylian Mbappé was the leading goal scorer of the tournament, recording 10 goals in eight appearances.
+
+Mbappé had also finished as the top scorer at the previous World Cup.`
+    ]
+  },
+
 /*
 ここはニュースを表示する処理
 
