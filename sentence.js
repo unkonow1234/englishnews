@@ -723,7 +723,38 @@ However, in response to the increasing number of bear-related incidents, the gov
     ]
   },
 
-  
+  {
+    title: "[July 14, 2026] EU: “We want to establish age-appropriate guidelines for social media use.”",
+    levels: [
+`Children’s use of social media has recently become a problem in many countries.
+
+The EU wants to decide how children should use social media depending on their age.
+
+On the 13th, the EU received advice from experts.
+
+Experts say that children from 3 to 12 years old should use social media only for a limited time when their parents or teachers are with them. They also say that children from 13 to 18 years old should use only safe services, such as ones that do not allow them to watch for a long time.
+
+The EU said that it will make detailed rules about children’s use of social media and announce them as early as this autumn.`,
+`Children’s use of social media has recently become a serious issue in many countries.
+
+The European Union (EU) is considering establishing guidelines for social media use based on children’s ages.
+
+On the 13th, the EU received advice from experts in the field.
+
+The experts recommend that children aged 3 to 12 should use social media only for a limited amount of time and only when parents or educators are present. For teenagers aged 13 to 18, they suggest using only services that include safety features, such as preventing users from continuously viewing content for long periods.
+
+The EU announced that it plans to create detailed guidelines for children’s social media use and release them as early as this autumn.`,
+`Children’s use of social networking services has recently become a growing concern in countries around the world.
+
+The European Union (EU) aims to establish age-appropriate guidelines for children’s use of social media platforms.
+
+On the 13th, the EU received recommendations from specialists regarding this issue.
+
+Experts advised that children between the ages of 3 and 12 should be allowed to use social media only for a limited period of time under the supervision of parents or educators. They also recommended that users aged 13 to 18 should be restricted to platforms equipped with safety measures, such as features that prevent excessive continuous viewing.
+
+The EU stated that it intends to develop detailed regulations regarding children’s social media use and announce them as early as this autumn.`
+    ]
+  },
 
 
 /*
