@@ -755,7 +755,32 @@ Experts advised that children between the ages of 3 and 12 should be allowed to 
 The EU stated that it intends to develop detailed regulations regarding children’s social media use and announce them as early as this autumn.`
     ]
   },
+{
+    title: "[July 14, 2026] Temperatures will reach 35°C or higher in many areas. Please be careful to avoid heatstroke.",
+    levels: [
+`On the 14th, there was very hot weather from Kyushu to the Kanto area.
 
+In Hamamatsu City, Shizuoka Prefecture, and Shimanto City, Kochi Prefecture, the temperature went above 38℃, and it became dangerously hot. Many places, including Tokyo and Fukuoka Prefecture, had temperatures over 35℃.
+
+On the 15th, it is expected to be as hot as the 14th from Kyushu to the Tohoku area.
+
+Experts say that people should be especially careful about heatstroke after the rainy season ends or when the weather suddenly becomes hot during the rainy season because their bodies are not used to the heat yet. Please use air conditioners and drink water to prevent heatstroke.`,
+`On the 14th, severe heat affected a wide area from Kyushu to the Kanto region.
+
+Temperatures in Hamamatsu City, Shizuoka Prefecture, and Shimanto City, Kochi Prefecture, rose above 38℃, creating dangerously hot conditions. Many other areas, including Tokyo and Fukuoka Prefecture, recorded temperatures of over 35℃.
+
+On the 15th, temperatures are expected to remain similarly high from Kyushu to the Tohoku region.
+
+Experts warn that people should be particularly cautious about heatstroke after the end of the rainy season or when temperatures suddenly rise during the rainy season, because the body has not yet adjusted to the heat. They recommend using air conditioners and drinking enough water to avoid heat-related illnesses.`,
+`On the 14th, extremely high temperatures affected a wide area stretching from Kyushu to the Kanto region.
+
+In Hamamatsu City, Shizuoka Prefecture, and Shimanto City, Kochi Prefecture, temperatures exceeded 38℃, resulting in dangerously hot conditions. Temperatures of 35℃ or higher were recorded in numerous locations, including Tokyo and Fukuoka Prefecture.
+
+On the 15th, similarly severe heat is expected to continue from Kyushu through the Tohoku region.
+
+Experts advise people to take extra precautions against heatstroke after the rainy season ends, as well as during periods when clear weather causes sudden temperature increases, because the body may not yet be accustomed to the heat. They recommend using air conditioning and staying properly hydrated in order to prevent heat-related illnesses.`
+    ]
+  },
 
 /*
 ここはニュースを表示する処理
